@@ -1,0 +1,4 @@
+C:\Users\kaspe\source\repos\ClassLibrary1\ClassLibrary1Tests\obj\Debug\netcoreapp3.1\ClassLibraryUnitTest.csprojAssemblyReference.cache
+C:\Users\kaspe\source\repos\ClassLibrary1\ClassLibrary1Tests\obj\Debug\netcoreapp3.1\ClassLibraryUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\source\repos\ClassLibrary1\ClassLibrary1Tests\obj\Debug\netcoreapp3.1\ClassLibraryUnitTest.AssemblyInfoInputs.cache
+C:\Users\kaspe\source\repos\ClassLibrary1\ClassLibrary1Tests\obj\Debug\netcoreapp3.1\ClassLibraryUnitTest.AssemblyInfo.cs
